@@ -88,6 +88,7 @@ This demo example suggests having 3 LEDs connected to corresponding GPIO PINs (1
 to indicate the content of 3 less-significant bits received from input data byte.
 
 Application demo video is also available at the following YouTube link (starting at 27:09):
+https://www.youtube.com/watch?v=1Z2kSx1YNiA&t=1629
 
 License
 -----------------------------
