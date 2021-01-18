@@ -87,7 +87,7 @@ http://www.sigmaprj.com/esp8266-tcp-client-server.html
 This demo example suggests having 3 LEDs connected to corresponding GPIO PINs (12, 13, 14) in order
 to indicate the content of 3 less-significant bits received from input data byte.
 
-Application demo video is also available at the following YouTube link (starting at 27:09):
+Application demo video is also available at the following YouTube link (starting at 27:09):<br/>
 https://www.youtube.com/watch?v=1Z2kSx1YNiA&t=1629
 
 License
