@@ -13,7 +13,7 @@ This particular repository contains ESP8266 TCP Server side implementation
 
 The following topics are described and implemented within application's source code:
  * How to open ESP server-side TCP socket under certain IP address
- * How to setup server DHCP config with client-assigment addresses range
+ * How to setup server DHCP config with client-assignment addresses range
  * How to accept connections on ESP server-side under specific port
  * How to manage WiFi sessions (to set specific WiFi session name, WiFi security mode and WiFi password)
 
